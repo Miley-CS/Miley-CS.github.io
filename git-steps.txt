@@ -1,0 +1,16 @@
+git steps
+
+1. Create some files in a directory (folder)
+2. git init (starts repository (storage))
+3. git add . (adds to stage)
+4. git commit -m "message" (make a commitment, save in history)
+5. git push origin master (puts in live GitHub repository, origin = original, master = main branch)
+
+git facts
+
+- Git is for saving different histories of your code
+- git helps you work on the same code on different computers with different people
+- local = own computer, not live/online
+- remote = somewhere else far, in computer terms it's stored somewhere public/live
+
+ACP (ADD, COMMIT, PUSH)
